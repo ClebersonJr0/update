@@ -1,0 +1,80 @@
+[
+{
+   "title":"Quer ganhar 💰?",
+   "description":"Já conhece o Kwai?\nCom ele você pode ganhar moedas assistindo a vídeos e essas moedas podem ser trocadas por dinheiro de verdade.\n\nInstale o Kwai e use o código Kwai468877859 para começar a ganhar (assim que instalar e usar o código você pode fazer um saque de R$ 2 para sua conta bancária - via PIX ou transferência)",
+   "request":"null",
+   "type":"official",
+   "ok":"instalar",
+   "cancell":"talvez depois",
+   "ok_toast":"Não esquece de usar o código ^-^",
+   "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
+   "is_web":"https://m.kwai.app/s/mI1dIA6b",
+   "id":"yx885a",
+   "cancelable":"false"
+},
+{
+   "title":"Dica incrível 😱",
+   "description":"Veja como encaminhar áudios de outras pessoas no WhatsApp como se você tivesse gravado (envie áudios com a voz dos seus amigos 😅)",
+   "request":"null",
+   "type":"official",
+   "ok":"ver agora",
+   "cancell":"talvez depois",
+   "ok_toast":"Aproveite para se inscrever no canal :)",
+   "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
+   "is_web":"https://youtu.be/ItkOqYO85b4",
+   "id":"yx885a",
+   "cancelable":"false"
+},
+{
+   "title":"Novos papéis de paredes 🌟",
+   "description":"Você sabia que é possível definir um papel de parede diferente para cada contato que você tem no WhatsApp? Veja como é fácil 🔔",
+   "request":"null",
+   "type":"official",
+   "ok":"ver agora",
+   "cancell":"talvez depois",
+   "ok_toast":"Aproveite para se inscrever no canal :)",
+   "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
+   "is_web":"https://youtu.be/WPUDYDQVQKo",
+   "id":"yx885b",
+   "cancelable":"false"
+},
+{
+   "title":"Siga-nos no Telegram",
+   "description":"Junte-se ao nosso grupo no Telegram para tirar dúvidas e ficar por dentro de todas as novidades do projeto 🤏",
+   "request":"null",
+   "type":"official",
+   "ok":"participar",
+   "cancell":"cancelar",
+   "ok_toast":"Por gentileza, leia as REGRAS do grupo 🇧🇷👍",
+   "cancell_toast":"",
+   "is_web":"https://t.me/yxwagroup",
+   "id":"yx885c",
+   "cancelable":"false"
+},
+{
+   "title":"Esqueceu sua senha?",
+   "description":"Você colocou uma senha em uma conversa e não se lembra mais? Veja como remover a senha mesmo se você não se lembrar dela",
+   "request":"null",
+   "type":"official",
+   "ok":"ver dica",
+   "cancell":"cancelar",
+   "ok_toast":"",
+   "cancell_toast":"",
+   "is_web":"https://youtu.be/ku0Cs_sRX-Y",
+   "id":"yx885d",
+   "cancelable":"false"
+},
+{
+   "title":"Usa Instagram?",
+   "description":"Siga a conta do meu desenvolvedor no Instagram para enviar sugestões de novos recursos que podem ser adicionados no YxWa :)",
+   "request":"null",
+   "type":"official",
+   "ok":"seguir",
+   "cancell":"depois",
+   "ok_toast":"Obrigado ^-^",
+   "cancell_toast":"Certo, vamos notificar você mais tarde",
+   "is_web":"https://Instagram.com/yModsX",
+   "id":"yx885e1",
+   "cancelable":"false"
+}]
+   

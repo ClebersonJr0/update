@@ -1,0 +1,9 @@
+{
+ "version":"8.72",
+ "status":"beta",
+ "title":"Atualização disponível",
+ "description":"Uma nova atualização de correção de bug está disponível - toque em 'Atualizar' aguarde o download e instale. (não é necessário desinstalar sua versão - basta instalar por cima)\n\nBugs corrigidos\n• Erro ao utilizar estilos de barra inferior\n• Erro aleatório ao abrir uma conversa\n• Erro FAB ✂️ sendo mostrado na guia de Chamadas\n• As guias 'Conversas' 'Status' e 'Chamadas' não mudam mais de cor após arquivar uma conversa\n• Erros na guia 'Encaminhar mensagens'\n• O indicador de 'Novos status não visto' agora é menor.",
+ "download":"http://www.mediafire.com/file/tz6mdbzd5brpqjf/YxMods(8.71).apk/file",
+ "users_premium":"C776A123 C287A912 C24A2 C55A894 C55A711 C58A219 C27A865 C0A281 C465A991 C0A281 C36A87 C84A8 C135A602 C742A384 C65A552 C41A688 C64A163 C106A491 C2A749",
+ "force":"true"
+}
