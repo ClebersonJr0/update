@@ -1,11 +1,11 @@
 {
- "version":"8.87",
+ "version":"8.88",
  "expire881":"1000",
  "expire870":"1000",
  "store":"1",
  "rewards":"",
  "title":"Atualização disponível",
- "description":"A atualização 8.87 está disponível, inclui correções de bugs e melhorias. Toque em atualizar para fazer o download.",
+ "description":"A atualização 8.88 está disponível, inclui correções de bugs e melhorias. Toque em atualizar para fazer o download.",
  "download":"https://t.me/yxwagroup",
  "users_premium":"",
  "force":"true"
