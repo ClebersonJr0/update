@@ -1,11 +1,11 @@
 {
- "version":"8.88",
+ "version":"8.90",
  "expire881":"1000",
  "expire870":"1000",
  "store":"1",
  "rewards":"",
- "title":"Atualização disponível",
- "description":"A atualização 8.88 está disponível, inclui correções de bugs e melhorias. Toque em atualizar para fazer o download.",
+ "title":"Atualização disponível 🎉",
+ "description":"A atualização 8.90 está disponível e inclui\n• Agendar Mensagens\n• Respostas Automáticas\n• Acelerar velocidade da reprodução de áudios\n• Envio de imagens e/ou vídeos que só podem ser vistos uma única vez\n • E outros recursos.\n\n Atualize para versão mais recente para ficar por dentro de todas novidades.",
  "download":"https://t.me/yxwagroup",
  "users_premium":"",
  "force":"true"
