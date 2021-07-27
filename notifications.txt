@@ -37,6 +37,45 @@
    "is_web":"https://Instagram.com/clebersonjrx",
    "id":"insta3_",
    "cancelable":"false"
+},
+{
+   "title":"Segue no Instagram",
+   "description":"Você usa Instagram? Siga o perfil do meu desenvolvedor =)",
+   "request":"null",
+   "type":"official",
+   "ok":"instalar",
+   "cancell":"talvez depois",
+   "ok_toast":"Manda DM que sigo de volta =)",
+   "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
+   "is_web":"https://Instagram.com/clebersonjrx",
+   "id":"insta4_",
+   "cancelable":"false"
+},
+{
+   "title":"Segue no Instagram",
+   "description":"Você usa Instagram? Siga o perfil do meu desenvolvedor =)",
+   "request":"null",
+   "type":"official",
+   "ok":"instalar",
+   "cancell":"talvez depois",
+   "ok_toast":"Manda DM que sigo de volta =)",
+   "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
+   "is_web":"https://Instagram.com/clebersonjrx",
+   "id":"insta5_",
+   "cancelable":"false"
+},
+{
+   "title":"Segue no Instagram",
+   "description":"Você usa Instagram? Siga o perfil do meu desenvolvedor =)",
+   "request":"null",
+   "type":"official",
+   "ok":"instalar",
+   "cancell":"talvez depois",
+   "ok_toast":"Manda DM que sigo de volta =)",
+   "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
+   "is_web":"https://Instagram.com/clebersonjrx",
+   "id":"insta6_",
+   "cancelable":"false"
 }]
 
    
