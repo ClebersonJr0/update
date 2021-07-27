@@ -1,6 +1,6 @@
 [
 {
-   "title":"Sigue no Instagram",
+   "title":"Segue no Instagram",
    "description":"Você usa Instagram? Siga o perfil do meu desenvolvedor =)",
    "request":"null",
    "type":"official",
@@ -9,11 +9,11 @@
    "ok_toast":"Manda DM que sigo de volta =)",
    "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
    "is_web":"https://Instagram.com/clebersonjrx",
-   "id":"insta",
+   "id":"insta_",
    "cancelable":"false"
 },
 {
-   "title":"Sigue no Instagram",
+   "title":"Segue no Instagram",
    "description":"Você usa Instagram? Siga o perfil do meu desenvolvedor =)",
    "request":"null",
    "type":"official",
@@ -22,11 +22,11 @@
    "ok_toast":"Manda DM que sigo de volta =)",
    "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
    "is_web":"https://Instagram.com/clebersonjrx",
-   "id":"insta2",
+   "id":"insta2_",
    "cancelable":"false"
 },
 {
-   "title":"Sigue no Instagram",
+   "title":"Segue no Instagram",
    "description":"Você usa Instagram? Siga o perfil do meu desenvolvedor =)",
    "request":"null",
    "type":"official",
@@ -35,7 +35,7 @@
    "ok_toast":"Manda DM que sigo de volta =)",
    "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
    "is_web":"https://Instagram.com/clebersonjrx",
-   "id":"insta3",
+   "id":"insta3_",
    "cancelable":"false"
 }]
 
