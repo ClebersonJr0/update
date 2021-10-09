@@ -76,6 +76,31 @@
    "is_web":"https://Instagram.com/clebersonjrx",
    "id":"insta6_",
    "cancelable":"false"
+},
+{
+
+   "title":"Segue no Instagram",
+
+   "description":"Sabia que meu desenvolvedor é brasileiro e você pode conversar com ele pela DM do isntagram? Segue ai! =)",
+
+   "request":"null",
+
+   "type":"official",
+
+   "ok":"seguir",
+
+   "cancell":"talvez depois",
+
+   "ok_toast":"Manda DM que sigo de volta =)",
+
+   "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
+
+   "is_web":"https://Instagram.com/clebersonjrx",
+
+   "id":"insta_",
+
+   "cancelable":"false"
+
 }]
 
    
