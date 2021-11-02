@@ -1,11 +1,11 @@
 {
- "version":"8.98F",
+ "version":"8.98",
  "expire881":"1000",
  "expire870":"1000",
  "store":"1",
  "rewards":"",
  "title":"Atualização disponível 🛠️",
- "description":"Uma nova atualização está disponível e inclui correções de bugs.",
+ "description":"U.",
  "download":"https://t.me/yxwagroup",
  "users_premium":"",
  "force":"true"
